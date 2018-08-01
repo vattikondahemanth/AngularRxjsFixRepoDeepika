@@ -1,0 +1,8 @@
+c:\users\vattikonda hemanth\source\repos\AngularRxjsFix\AngularRxjsFix\bin\AngularRxjsFix.dll.config
+c:\users\vattikonda hemanth\source\repos\AngularRxjsFix\AngularRxjsFix\bin\AngularRxjsFix.dll
+c:\users\vattikonda hemanth\source\repos\AngularRxjsFix\AngularRxjsFix\bin\AngularRxjsFix.pdb
+c:\users\vattikonda hemanth\source\repos\AngularRxjsFix\AngularRxjsFix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\vattikonda hemanth\source\repos\AngularRxjsFix\AngularRxjsFix\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\vattikonda hemanth\source\repos\AngularRxjsFix\AngularRxjsFix\obj\Debug\AngularRxjsFix.csproj.CoreCompileInputs.cache
+c:\users\vattikonda hemanth\source\repos\AngularRxjsFix\AngularRxjsFix\obj\Debug\AngularRxjsFix.dll
+c:\users\vattikonda hemanth\source\repos\AngularRxjsFix\AngularRxjsFix\obj\Debug\AngularRxjsFix.pdb
